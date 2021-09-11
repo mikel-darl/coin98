@@ -1,7 +1,7 @@
 [SETTINGS]
 currency = LTC
-private_group = https://t.me/joinchat/qXF-IxLXG1E4MTc0
-bot_token = 1915893214:AAHnP2kFr3EXHtbybwpyPXx5So4zGWL-Wvg
+private_group =
+bot_token = 
 useing_browser = yes
 visit_site = yes
 start_bot = yes
