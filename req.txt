@@ -1,0 +1,9 @@
+telethon
+requests
+asyncio
+pysocks
+colored
+bs4
+Pillow
+python-socks[asyncio]
+undetected-chromedriver

@@ -1,0 +1,48 @@
+[SETTINGS]
+currency = LTC
+private_group = https://t.me/joinchat/qXF-IxLXG1E4MTc0
+bot_token = 1915893214:AAHnP2kFr3EXHtbybwpyPXx5So4zGWL-Wvg
+useing_browser = yes
+visit_site = yes
+start_bot = yes
+join_chat = yes
+site_limit = 20
+bot_limit = 20
+join_limit = 5
+auto_withdraw = yes
+limit_withdraw = 0.0001
+sleep_time = 00:30:00
+delete_bots = yes
+delete_channels = yes
+auto_user_message = yes
+auto_read_chats = yes
+auto_add_contacts = yes
+auto_profile = yes
+kill_sessions = no
+join_timer = (5,10)
+excaptions = 123456,15586,373611196
+
+[PROXY]
+enable = no
+host = fast.iproxypersonalproxy.club
+port = 8443
+user = 276agadl
+password = AiRMDwS0
+
+[WALLETS]
+ltc = ltc1qfvmg4w40j0r5us2vmtlxglrp4s3977tg93zvky
+doge = D79JySaH7eGGDc9H2JrsKa7AJ1SpnxLhak
+zec = t1ZFFmC9iHRXukZfNzzdPsUod6dHyH4snas
+bch = qqzv3gvuzp6e9ymu7eucvdrnu8sup6yafygh2wvh8v
+btc = bc1q704rhs2hzqy3xprve73xvf4d437hw6xzcce6t8
+
+[REFRAL]
+ltc = aTiXS
+doge = xYa8C
+zec = U1DOs
+bch = QEA5E
+btc = 9oSHE
+
+[ACTIVE_KEY]
+active_key = 813493547158565
+
